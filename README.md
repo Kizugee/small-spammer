@@ -1,2 +1,4 @@
-# small-spammer
-Simple SMS spammer
+Commands:
+
+pip install -r installs
+python spammer.py
